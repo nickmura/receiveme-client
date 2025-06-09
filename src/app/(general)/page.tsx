@@ -99,7 +99,7 @@ export default function Home() {
                     title={
                         <>
                             Welcome To{" "}
-                            <span className="text-primary">Recieve.me</span>
+                            <span className="text-primary">Receive.me</span>
                         </>
                     }
                 />
